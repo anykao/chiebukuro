@@ -7,5 +7,5 @@ https://qiita.com/wtotw/items/69290b178371c4d7cf76
 ### install
 
 - **MacOS** `brew install mitmproxy`
-- **linux** download prebuilt
+- **linux** `download prebuilt`
 - **windows** ?
