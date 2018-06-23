@@ -1,4 +1,5 @@
 - [Impactor](http://www.cydiaimpactor.com/)
 - https://about.gitlab.com/2016/03/10/setting-up-gitlab-ci-for-ios-projects/
 - https://i-bitzedge.com/jailbreak-news/cydia-impactor-error-list
+- https://tatsublog.com/how-to-install-ipa-file-using-cydia-impactor/
 - https://appleid.apple.com/
