@@ -1,4 +1,10 @@
 ### node
+
+```bash
+yarn add -D typescript
+yarn add -D @types/node
+```
+
 - tsconfig.json
 ```js
 {
