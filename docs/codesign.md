@@ -3,3 +3,4 @@
 - https://i-bitzedge.com/jailbreak-news/cydia-impactor-error-list
 - https://tatsublog.com/how-to-install-ipa-file-using-cydia-impactor/
 - https://appleid.apple.com/
+- https://medium.com/xcblog/xcodebuild-deploy-ios-app-from-command-line-c6defff0d8b8
