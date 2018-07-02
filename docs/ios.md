@@ -7,6 +7,10 @@ flutter run
 ```
 - check 設定->一般->プロファイルとデバイス管理->デベロッパAPP
 
+### flutter plugin
+- flutter create --template=plugin -i swift -a kotlin hello
+- [document](https://flutter.io/developing-packages/)
+
 ### carthage
 - brew install carthage
 ```
