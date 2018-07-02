@@ -5,6 +5,8 @@ flutter create -i swift my-app
 nvim ios/Runner.xcodeproj/project.pbxproj
 flutter run
 ```
+- check 設定->一般->プロファイルとデバイス管理->デベロッパAPP
+
 ### carthage
 - brew install carthage
 ```
