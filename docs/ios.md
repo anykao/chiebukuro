@@ -20,3 +20,5 @@ github "SwiftyJSON/SwiftyJSON"
 ```
 - carthage update --platform iOS
 - 「Linked Frameworks and Library」=> add(+) button
+
+/usr/bin/env xcrun xcodebuild -configuration Release VERBOSE_SCRIPT_LOGGING=YES -workspace Runner.xcworkspace -scheme Runner BUILD_DIR=/Users/developer/flwork/niuz/build/ios -sdk iphoneos -arch arm64 CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGNING_IDENTITY=""
