@@ -2,6 +2,7 @@
 ```bash
 flutter create -i swift my-app
 # change PRODUCT_BUNDLE_IDENTIFIER
+# DEVELOPMENT_TEAM = MK6YZLR2TP
 nvim ios/Runner.xcodeproj/project.pbxproj
 flutter run
 ```
