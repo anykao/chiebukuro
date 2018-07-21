@@ -6,3 +6,5 @@ git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.gi
 ```
 git archive HEAD --prefix=hogedir/ --output=hoge.zip
 ```
+### github api
+> https://api.github.com/repos/flutter/flutter
