@@ -8,3 +8,8 @@ git archive HEAD --prefix=hogedir/ --output=hoge.zip
 ```
 ### github api
 > https://api.github.com/repos/flutter/flutter
+
+### ignore tracked file
+```
+git rm --cached <file>
+```
