@@ -11,5 +11,5 @@ git archive HEAD --prefix=hogedir/ --output=hoge.zip
 
 ### ignore tracked file
 ```
-git rm --cached <file>
+git rm -r --cached <file or dir>
 ```
